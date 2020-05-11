@@ -1,16 +1,15 @@
-# calculadoraimc
+# Calculadora de IMC
 
-A new Flutter application.
+Aplicativo para fazer o calculo do Índice de Massa Corporal (IMC) e notificar a situação atual do seu corpo. 
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Para obter ajuda sobre como iniciar o Flutter, consulte nossa [documentação](https://flutter.io/) on-line .
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Tela 1 | Tela 2 | Tela 3 |
+| --------|--------|--------|
+|<img src="screenshot/CalculadoraIMC_Tela1.png" width="320">|<img src="screenshot/CalculadoraIMC_Tela2.png" width="320">|<img src="screenshot/CalculadoraIMC_Tela3.png" width="320">|
